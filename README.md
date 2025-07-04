@@ -23,3 +23,12 @@ If you're running from source, install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
+
+
+## 🔧 Build the `.exe`
+
+To compile the widget into a standalone Windows executable:
+
+```bash
+pip install pyinstaller
+pyinstaller winwid.spec
