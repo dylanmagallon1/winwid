@@ -23,7 +23,7 @@ If you're running from source, install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 🔧 Build the `.exe`
 
